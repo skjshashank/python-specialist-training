@@ -72,7 +72,7 @@ body{
 }
 /* header */
 .header{
-  clip-path: polygon(0 0,100% 0,100% 95%,70% 100%,0 95%);
+  clip-path: polygon(0 0,100% 0,100% 95%,50% 100%,0 95%);
   color:var(--mainWhite);
   overflow: hidden;
 }
