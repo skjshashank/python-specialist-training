@@ -483,3 +483,11 @@ background: var(--mainBlack);
 .footer-icon:hover{
   color: var(--mainBlue);
 }
+.footer {
+  background: var(--mainGrey);
+}
+.skj-logo{
+  border-radius: 40%;
+  height: 25%;
+  width: 15%;
+}
